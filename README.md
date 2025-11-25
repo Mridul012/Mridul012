@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Mridul 👋  
+### Full-Stack Developer | Open Source Contributor | B.Tech CSE (AI & ML)
 
-<!--
-**Mridul012/Mridul012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a passionate **Full-Stack Developer** who loves building dynamic, scalable, and user-friendly web applications.  
+I enjoy working across the stack — from clean UI to robust backend architecture — and contributing to impactful open-source projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🔭 I’m currently working on MERN stack projects  
+- 🌱 Learning: Advanced React, MongoDB Aggregations & System Design  
+- 🎓 B.Tech CSE (AI & ML) — Newton School of Technology, Pune (2028 Batch)
+
+---
+
+## 🧑‍💻 Tech Stack
+
+### **Frontend**
+- React.js, Next.js  
+- HTML, CSS, JavaScript  
+- Tailwind CSS, Bootstrap  
+
+### **Backend**
+- Node.js, Express.js  
+- MongoDB, Mongoose  
+- REST APIs, JWT Auth  
+
