@@ -56,7 +56,8 @@ Actively looking for full-stack or backend internship opportunities.
 | **Stack** | React (Vite), Node.js, Express, MongoDB, Gemini API, Tailwind CSS |
 | **Auth** | JWT-based secure authentication |
 | **Key Features** | AI data extraction · One-click PDF export · Real-time toast notifications · REST API with CORS handling |
-| **Links** | [GitHub]([https://github.com/Mridul012/YOUR_REPO](https://github.com/Mridul012/ai-invoice-generator)) · [Live Demo]([https://YOUR_DEMO_URL](https://ai-invoice-generator-khaki.vercel.app/)) |
+| **Code** | [GitHub](https://github.com/Mridul012/ai-invoice-generator) 
+| **Link** | [Live Demo](https://ai-invoice-generator-khaki.vercel.app/) 
 
 
 ## Let's Work Together
