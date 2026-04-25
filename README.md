@@ -4,7 +4,7 @@
 
 **Full-Stack Developer · Building real-world web apps that ship**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_HANDLE](https://www.linkedin.com/in/mridul-r-029547358/))
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:iammridul012@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_HANDLE)
 
@@ -61,27 +61,14 @@ Actively looking for full-stack or frontend internship opportunities.
 | **Stack** | React (Vite), Node.js, Express, MongoDB, Gemini API, Tailwind CSS |
 | **Auth** | JWT-based secure authentication |
 | **Key Features** | AI data extraction · One-click PDF export · Real-time toast notifications · REST API with CORS handling |
-| **Links** | [GitHub](https://github.com/Mridul012/YOUR_REPO) · [Live Demo](https://YOUR_DEMO_URL) |
+| **Links** | [GitHub]([https://github.com/Mridul012/YOUR_REPO](https://github.com/Mridul012/ai-invoice-generator)) · [Live Demo]([https://YOUR_DEMO_URL](https://ai-invoice-generator-khaki.vercel.app/)) |
 
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mridul012&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mridul012&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mridul012&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 ## Let's Work Together
 
 I'm looking for an internship where I can contribute to real features, not just fix CSS.
 If your team ships fast and values clean code — let's talk.
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_HANDLE](https://www.linkedin.com/in/mridul-r-029547358/))
 [![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iammridul012@gmail.com)
 
