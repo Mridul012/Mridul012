@@ -17,7 +17,7 @@ I build end-to-end web applications with clean UIs and reliable backends.
 My work spans React frontends, Node.js APIs, and AI integrations that solve
 actual problems.
 
-Currently in my 2nd year of B.Tech CSE (AI & ML) at Newton School of Technology, Pune.
+Currently in my 3rd year of B.Tech CSE (AI & ML) at Newton School of Technology, Pune.
 Actively looking for full-stack or backend internship opportunities.
 
 ## Tech Stack
